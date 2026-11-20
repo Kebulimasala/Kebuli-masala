@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kebulimasala.github.io/Kebuli-masala/sitemap.xml
